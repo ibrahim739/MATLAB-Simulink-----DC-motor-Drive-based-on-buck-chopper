@@ -1,6 +1,9 @@
 # MATLAB-Simulink-----DC-motor-Drive-based-on-buck-chopper
+
 DC driver based on a buck chopper
+
 Description:
+
 File 1: With different values of duty cycle for the chopper
 1. no-load
 2. variable load torque
